@@ -1,6 +1,6 @@
 manifestVersion: 1
-id: trek
-category: travel
+id: trek-community-store-trek
+category: files
 name: Trek
 version: "5.2.1"
 tagline: Planificateur de voyages et gestionnaire d'itinéraires
